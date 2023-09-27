@@ -1,2 +1,2 @@
 # Snake game
-Snake game writte using Pythons turtle graphics || Pending highscore tracking update
+Snake game written using Pythons turtle graphics || Pending highscore tracking update
